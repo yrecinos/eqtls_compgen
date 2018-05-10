@@ -1,5 +1,7 @@
 # eqtls_compgen
 Final_Compgen_project 
+Results are found in the Results folder. 
+
 
 The purpose of this pipeline is to map eQTLs and their occurrences in African American genomes and the local ancestry around these eQTLs. 
 
